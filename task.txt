@@ -1,0 +1,6 @@
+
+
+topshiriq:
+category table : id primary key  int    name varchar
+
+books table: id id primary key  int, category_id int,    book_name varchar(250),  book_disc text,  book_photo text
