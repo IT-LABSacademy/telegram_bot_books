@@ -121,6 +121,12 @@ baza.sqlite3
 # SageMath parsed files
 *.sage.py
 
+baza.sqlite3/
+baza.sqlite3-journal
+classbaza.sqlite3/
+classbaza.sqlite3-journal
+task.txt
+
 # Environments
 .env
 .venv
